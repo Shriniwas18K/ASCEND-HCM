@@ -1,4 +1,6 @@
 # Ascend HCM
+<img width="286" alt="ascend-hcm-medium-sized" src="https://github.com/user-attachments/assets/93111b76-c369-4191-860c-5377ee006b79" />
+
 ### Overview
 This project is a Human Capital Management (HCM) system built using Java EE 8, inspired by Oracle HCM. It aims to provide a comprehensive solution for managing HR processes, including employee data management, payroll, and talent management.
 
