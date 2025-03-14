@@ -1,4 +1,3 @@
-# Ascend HCM
 <img width="286" alt="ascend-hcm-medium-sized" src="https://github.com/user-attachments/assets/93111b76-c369-4191-860c-5377ee006b79" />
 
 ### Overview
@@ -22,7 +21,7 @@ This project is a Human Capital Management (HCM) system built using Java EE 8, i
 
 1) Clone the repository:
 ```bash
-git clone https://github.com/Shriniwas18K/ascend-hcm.git
+git clone https://github.com/Shriniwas18K/ASCEND-HCM.git
 cd ascend-hcm
 ````
 
